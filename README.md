@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning JavaScript, HTML/CSS, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- 
+
+***💪 SKILLS***
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 
 <!---
 jenjenhub/jenjenhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -24,7 +24,7 @@
 
 ### 🎓 Education
 
-> Codestates Software Engineering Bootcamp `2021.08 - 2022.03`
+> Codestates Software Engineering Bootcamp `2021.06 - 2022.02`
 
 > Hankuk University of Foreign Studies, Seoul Campus `2016.03 - 2022.02`
 > - Bachelor of English Literature and Culture

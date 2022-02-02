@@ -27,7 +27,7 @@
 
 <a href="https://velog.io/@jenjenhub/series/bootcamp"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@jenjenhub/series/bootcamp"/></a>
 
-<a href="https://jenjenhub.github.io/index.html"><img src="https://img.shields.io/badge/Homepage-181717?style=flat-square&logo=Github&logoColor=white&link=https://jenjenhub.github.io/index.html"/></a>
+<a href="https://jenjenhub.github.io/posts/how-to"><img src="https://img.shields.io/badge/Homepage-181717?style=flat-square&logo=Github&logoColor=white&link=https://jenjenhub.github.io/posts/how-to"/></a>
 
 <!---
 jenjenhub/jenjenhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

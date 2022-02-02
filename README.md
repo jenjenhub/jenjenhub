@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=32c2ed&height=300&section=header&text=hola🍟%20I'm_Jenny&fontSize=30&fontColor=f2fafc)
+![header](https://capsule-render.vercel.app/api?type=waving&color=32c2ed&height=300&section=header&text=¡Hola!🍟%20Jenny_Kim&fontSize=30&fontColor=f2fafc)
 
 
 ### 👩🏻‍💻 About Me

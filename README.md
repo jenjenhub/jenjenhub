@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fdd835&height=300&section=header&text=JennyKim🍟&fontSize=70&fontColor=212121)
+![header](https://capsule-render.vercel.app/api?type=slice&color=bbdefb&height=300&section=header&text=JennyKim🍟&fontSize=70&fontColor=212121)
 
 
 ### 💪 Tech Stack
